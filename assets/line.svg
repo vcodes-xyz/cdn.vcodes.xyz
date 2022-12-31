@@ -1,0 +1,27 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="496"
+    height="319"
+    fill="none"
+    viewBox="0 0 496 319"
+>
+    <path
+        stroke="url(#vcodes_line)"
+        stroke-dasharray="8 8"
+        stroke-width="4"
+        d="M494 26.5c0 205-200.43-128.5-331.5 12C63.134 145.017 231.5 386.5 1 297"
+    ></path>
+    <defs>
+        <linearGradient
+            id="vcodes_line"
+            x1="1"
+            x2="518.803"
+            y1="2.78"
+            y2="51.185"
+            gradient-units="userSpaceOnUse"
+        >
+            <stop stop-color="#FFF"></stop>
+            <stop offset="1" stop-color="#FFF"></stop>
+        </linearGradient>
+    </defs>
+</svg>
